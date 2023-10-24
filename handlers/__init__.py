@@ -1,0 +1,2 @@
+from .base_handlers import register_base_handlers
+from .get_handlers import register_get_handlers
